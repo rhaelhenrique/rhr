@@ -6,12 +6,12 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>RhR - Dev</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" src="/favicon.ico" />
       </Head>
 
       <top className={styles.top}>
 
-      <img src="/logo-RHR-1.png" alt="LOGO RHR" className={styles.logo2} />
+      <img src="/logo-RHR-transp.png" alt="LOGO RHR" className={styles.logo2} />
 
       </top>
 
