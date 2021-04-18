@@ -11,7 +11,7 @@ export default function Home() {
 
       <top className={styles.top}>
 
-      <img src="/logo-RHR-ok.png" alt="LOGO RHR" className={styles.logo2} />
+        <img src="/logo-RHR-ok.png" alt="LOGO RHR" className={styles.logo2} />
 
       </top>
 
