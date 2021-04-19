@@ -5,7 +5,7 @@ I hope to be able to contribute to the projects and help as I can.
 
 - Rhael Henrique
 
-## Getting Started
+## Resume
 
 Página de apresentação/teste/estudo, utilizando Next Js.
 
