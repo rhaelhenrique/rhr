@@ -1,7 +1,7 @@
 .top {
   width: 100%;
   height: 700px;
-  background-color: black;
+  background-color: #28323e;
   border-bottom: 1px solid #eaeaea;
   display: flex;
   justify-content: center;
@@ -14,6 +14,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  background-color: #edf5fc;
+  color: #28323e
 }
 
 .main {
@@ -35,7 +38,7 @@
 }
 
 .footer img {
-  margin-left: 0.5rem;
+  margin-left: 1rem;
 }
 
 .footer a {
@@ -69,15 +72,6 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
-}
-
-.code {
-  background: #fafafa;
-  border-radius: 5px;
-  padding: 0.75rem;
-  font-size: 1.1rem;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .grid {
@@ -120,11 +114,12 @@
 }
 
 .logo {
-  height: 2em;
+  height: 1.8rem;
+  margin-right: 1rem;
 }
 
 .logo1 {
-  height: 8em;
+  height: 7rem;
 }
 
 .logo2 {
