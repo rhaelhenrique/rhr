@@ -11,15 +11,17 @@ export default function Home() {
 
       <top className={styles.top}>
 
-        <img src="/logo-RHR-1.png" alt="LOGO RHR" className={styles.logo2} />
+        <img src="/rhr-img.png" alt="Rhael Henrique" className={styles.rhrImg} />
+
+        <h1 className={styles.title}>Rhael Henrique</h1>
+
+        <h2 className={styles.subTitle}>Desenvolvedor</h2>
 
       </top>
 
       <main className={styles.main}>
 
-        <h1 className={styles.title}>Rhael Henrique</h1>
-
-        <h2>Desenvolvedor</h2>
+        <h1 className={styles.title2}>Skills</h1>
 
         <div className={styles.grid}>
           <img src="/skills/html.png" alt="HTML5" className={styles.logo1} />
@@ -51,7 +53,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/linkedin.png" alt="Linkedin Logo" className={styles.logo} />
+            <img src="/linkedin.png" alt="Linkedin Logo" className={styles.logoFooter} />
             Linkedin{' '}
           </a>
         </h3>
@@ -61,7 +63,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/github.png" alt="GitHub Logo" className={styles.logo} id="logoGit"/>
+            <img src="/github.png" alt="GitHub Logo" className={styles.logoFooter} id="logoGit"/>
             GitHub{' '}
           </a>
         </h3>
